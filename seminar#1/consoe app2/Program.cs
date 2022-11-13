@@ -9,10 +9,10 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 
 if (number1 > number2)
 {
-  Console.WriteLine ($"the biggesr is {number1}");  
+  Console.WriteLine ($"the biggest is {number1}");  
 }
 else
 {
-    Console.WriteLine ($"the biggesr is {number2}");
+    Console.WriteLine ($"the biggest is {number2}");
 }
 
