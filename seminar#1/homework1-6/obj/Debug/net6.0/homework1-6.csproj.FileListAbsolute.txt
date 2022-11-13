@@ -1,0 +1,15 @@
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\bin\Debug\net6.0\homework1-6.exe
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\bin\Debug\net6.0\homework1-6.deps.json
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\bin\Debug\net6.0\homework1-6.runtimeconfig.json
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\bin\Debug\net6.0\homework1-6.dll
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\bin\Debug\net6.0\homework1-6.pdb
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.csproj.AssemblyReference.cache
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.AssemblyInfoInputs.cache
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.AssemblyInfo.cs
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.dll
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\refint\homework1-6.dll
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.pdb
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\homework1-6.genruntimeconfig.cache
+C:\Users\Lena\Documents\программирование\seminar1\seminar#1\homework1-6\obj\Debug\net6.0\ref\homework1-6.dll
